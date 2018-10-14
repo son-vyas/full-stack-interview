@@ -6,3 +6,11 @@ Structured Query Language(SQL) Interview Questions & Answers
 </p>
 
 _Note: Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would._
+
+### 1. Explain the consequences of not performing Normalization over the Database?:star:
+<details>
+        <summary>
+        Answer
+        </summary>
+
+</details>
