@@ -14,3 +14,11 @@ _Note: Keep in mind that many of these questions are open-ended and could lead t
         </summary>
 
 </details>
+
+### 2. Explain the effect of dropping a table over a view.
+<details>
+        <summary>
+        Answer
+        </summary>
+
+</details>
